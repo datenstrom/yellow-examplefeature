@@ -8,7 +8,7 @@ Example feature for Datenstrom Yellow.
 
 [Download ZIP file](https://github.com/datenstrom/yellow-newfeature/archive/refs/heads/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
-## How to make an extension
+## How to make a new feature
 
 Create a new repository on GitHub or Codeberg, for example click on `Use this template` in the top-right corner. Edit the README file in your repository and replace the download link with the download link of your repository. [Learn more about making extensions](https://github.com/annaesvensson/yellow-publish).
 

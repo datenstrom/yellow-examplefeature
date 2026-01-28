@@ -1,6 +1,6 @@
 # Example 0.9.1
 
-Example feature for Datenstrom Yellow.
+Example feature for Datenstrom Yellow. Developed by Anna Svensson.
 
 <p align="center"><img src="screenshot.png" alt="Screenshot"></p>
 
@@ -43,6 +43,4 @@ Making animated text, inside a list:
     * [examplefeature - Installed in a few minutes]
     * [examplefeature - Just files and folders]
 
-## Developer
-
-Your name. [Get help](https://datenstrom.se/yellow/help/).
+Do you have questions? [Get help](https://datenstrom.se/yellow/help/).
